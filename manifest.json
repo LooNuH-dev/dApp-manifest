@@ -2,7 +2,7 @@
   "name": "TON Connect for Forms",
   "description": "TON dApp for connecting wallet to forms",
   "icon": "https://raw.githubusercontent.com/LooNuH-dev/dApp-manifest/cd9a4c90353cb1840892d5b15e6bf02dfbbc8250/icon.png",
-  "url": "https://localhost:3000",
+  "url": "https://www.youtube.com",
   "bridgeUrl": "https://bridge.tonapi.io",
   "network": "testnet",
   "permissions": ["tonClient", "tonSign", "tonSend"],
