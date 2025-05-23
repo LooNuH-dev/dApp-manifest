@@ -1,12 +1,5 @@
 {
-  "name": "TON Connect for Forms",
-  "description": "TON dApp for connecting wallet to forms",
-  "icon": "https://raw.githubusercontent.com/LooNuH-dev/dApp-manifest/refs/heads/main/icon.png",
-  "url": "https://ton-forms.up.railway.app",
-  "bridgeUrl": "https://bridge.tonapi.io",
-  "network": "testnet",
-  "permissions": ["tonClient", "tonSign", "tonSend"],
-  "version": "1.0.0",
-  "author": "Author",
-  "contact": "email@example.com"
+    "url": "https://ton-forms.up.railway.app",
+    "name": "TON Connect for Forms",
+    "iconUrl": "https://raw.githubusercontent.com/LooNuH-dev/dApp-manifest/refs/heads/main/icon.png"
 }
